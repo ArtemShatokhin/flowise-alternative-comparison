@@ -25,7 +25,7 @@ Kortix comes first because it is the recommendation here: it is the open-source 
 
 | Tool | What it is for | Pricing shape |
 | --- | --- | --- |
-| Kortix | One repo for agents, skills, memory, and connectors | Free, then $40 per seat per month |
+| Kortix | One repo for agents, skills, memory, and connectors | Free $0 plan, then credits at 100 per dollar |
 | Langflow | Visual builder for AI agents and RAG apps | Open source; free cloud account |
 | Dify | Visual workflows, RAG, and agents | Self-host free; cloud from $590 per workspace per year |
 | n8n | Workflow automation with native AI | Self-host free; paid cloud and enterprise tiers |
